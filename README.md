@@ -5,8 +5,8 @@
 
 大概文件结构如下：
 
--- dataset
-  --data
-  --train.csv
-  --annotation.csv
-  --test.csv
+\-- dataset
+  \-\-data
+  \-\-train.csv
+  \-\-annotation.csv
+  \-\-test.csv
