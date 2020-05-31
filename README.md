@@ -5,13 +5,13 @@
 
 大概文件结构如下：
 
-\-- dataset
+- dataset
 
-  \-\-data
+  + data
   
-  \-\-train.csv
+  + train.csv
   
-  \-\-annotation.csv
+  + annotation.csv
   
-  \-\-test.csv
+  + test.csv
   
